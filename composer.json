@@ -1,12 +1,12 @@
 {
-  "name": "lsnepomuceno/laravel-a1-pdf-sign",
+  "name": "3run01/laravel-a1-pdf-sign",
   "description": "Sign PDF files with valid x509 certificates",
   "license": "MIT",
   "type": "library",
-  "homepage": "https://github.com/lsnepomuceno/laravel-a1-pdf-sign",
+  "homepage": "https://github.com/3run01/laravel-a1-pdf-sign",
   "support": {
-    "issues": "https://github.com/lsnepomuceno/laravel-a1-pdf-sign/issues",
-    "source": "https://github.com/lsnepomuceno/laravel-a1-pdf-sign"
+    "issues": "https://github.com/3run01/laravel-a1-pdf-sign/issues",
+    "source": "https://github.com/3run01/laravel-a1-pdf-sign"
   },
   "keywords": [
     "a1",
@@ -19,9 +19,9 @@
   ],
   "authors": [
     {
-      "name": "Lucas Nepomuceno",
-      "email": "lsn.nepomuceno@gmail.com",
-      "homepage": "https://github.com/lsnepomuceno"
+      "name": "Bruno Santos",
+      "email": "bruno@brunoweblink.com",
+      "homepage": "https://github.com/3run01"
     }
   ],
   "require": {
