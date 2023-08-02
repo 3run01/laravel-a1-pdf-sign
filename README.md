@@ -58,19 +58,3 @@
   </tr>
 
 </table>
-
-
-<h1 align="center">Project supported by JetBrains</h1>
-<h3 align="center">Special thanks to the team at JetBrains for supporting Open Source projects with licenses to use.</h3>
-<p align="center">
-  <a href="https://www.jetbrains.com/community/opensource/?from=https://github.com/lsnepomuceno/laravel-a1-pdf-sign#support">
-    <img src="https://user-images.githubusercontent.com/14093492/195155296-55db9dcb-feca-4f2b-a9d4-205fadc580b7.svg" width="100" alt="JetBrains Logo">
-  </a>
-</p>
-
-<h1 align="center">Do you want to support this project?</h1>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/lucasnepomuceno" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="200" >
-  </a>
-</p>
